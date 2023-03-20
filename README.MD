@@ -253,7 +253,7 @@ SELECT *
 FROM produtos
 WHERE preco >= 50 AND preco <= 100 ALLOW FILTERING;
 `````
-[Post sobre]([Linkedin](https://www.linkedin.com/posts/leon-ortega-cerqueira-frontend_sql-activity-7042565299535003648-J2TR?utm_source=share&utm_medium=member_desktop))
+[Post sobre](https://www.linkedin.com/posts/leon-ortega-cerqueira-frontend_sql-activity-7042565299535003648-J2TR?utm_source=share&utm_medium=member_desktop)
 
 
 
