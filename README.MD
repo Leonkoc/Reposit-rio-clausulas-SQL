@@ -247,6 +247,13 @@ GROUP BY categoria
 HAVING AVG(preco) > 1000;
 --Este exemplo retorna a média de preços para cada categoria de produtos e filtra apenas as categorias que têm uma média de preço acima de 1000.
 ````
+# BETWEEN
+`````SQL
+SELECT *
+FROM produtos
+WHERE preco >= 50 AND preco <= 100 ALLOW FILTERING;
+`````
+[Post sobre]([Linkedin](https://www.linkedin.com/posts/leon-ortega-cerqueira-frontend_sql-activity-7042565299535003648-J2TR?utm_source=share&utm_medium=member_desktop))
 
 
 
