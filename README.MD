@@ -1,5 +1,5 @@
 <h1 align="center">
-   Meu Dicionário SQL <img alt="Grama XP 48" src="https://img.shields.io/static/v1?label=->&message=2023&color=success&labelColor=grey"> <img alt="Stack Hacker" src="https://img.shields.io/static/v1?label=Tech&message=SQL&color=success&labelColor=grey">
+   Meu Dicionário SQL <img alt="" src="https://img.shields.io/static/v1?label=->&message=2023&color=success&labelColor=grey"> <img alt="Stack Hacker" src="https://img.shields.io/static/v1?label=Tech&message=SQL&color=success&labelColor=grey">
 </h1>
 <h1 align="left">Analista</h1>
 
